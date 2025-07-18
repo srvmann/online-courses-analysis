@@ -75,7 +75,7 @@ This project visualizes key data points related to online courses, answering que
 
 ## 📷 Preview
 
-Dashboard Snapshot.png
+[Dashboard Snapshot.png](https://github.com/srvmann/online-courses-analysis/blob/main/Dashboard%20Snapshot.png?raw=true)
 
 ---
 
