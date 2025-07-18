@@ -75,7 +75,7 @@ This project visualizes key data points related to online courses, answering que
 
 ## 📷 Preview
 
-![Dashboard Screenshot](68019e00-e488-4854-8cab-fa411f461e47.png)
+Dashboard Snapshot.png
 
 ---
 
